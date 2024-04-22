@@ -1,2 +1,2 @@
 # CucumberFramework
-Elar logistics regreassion
+Elar logistics regression
